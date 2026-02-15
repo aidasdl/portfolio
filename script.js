@@ -98,7 +98,7 @@ document.addEventListener("click", (e) => {
 
     <div class="project-links">
        <a class="project-link"
-     href="pdf/hop-report.pdf"
+     href="pdf/Rapport IHM jardinage.pdf"
      target="_blank"
      rel="noopener">
     ↗ View project report (PDF)
